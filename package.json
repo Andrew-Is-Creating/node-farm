@@ -1,0 +1,28 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "farm starter code",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Andrew",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andrew-Is-Creating/node-farm.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "bugs": {
+    "url": "https://github.com/Andrew-Is-Creating/node-farm/issues"
+  },
+  "homepage": "https://github.com/Andrew-Is-Creating/node-farm#readme",
+  "dependencies": {
+    "slugify": "^1.6.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
